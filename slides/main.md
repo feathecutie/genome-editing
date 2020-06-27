@@ -4,4 +4,4 @@
 
 ## Content
 
-<span class="fragment highlight-red" data-fragment-index="1 2 3">CRISPR</span><span class="fragment highlight-red" data-fragment-index="2 3">/Cas</span><span class="fragment highlight-red" data-fragment-index="3">9</span>
+<span class="fragment highlight-red font-size-up" data-fragment-index="1 2 3">CRISPR</span><span class="fragment highlight-red font-size-up" data-fragment-index="2 3">/Cas</span><span class="fragment highlight-red font-size-up" data-fragment-index="3">9</span>
