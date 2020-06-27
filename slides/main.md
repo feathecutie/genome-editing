@@ -8,6 +8,8 @@
 1. The discovery of CRISPR <!-- .element: class="fragment" data-fragment-index="1" -->
 2. Cas <!-- .element: class="fragment" data-fragment-index="2" -->
 3. Cas9 <!-- .element: class="fragment" data-fragment-index="3" -->
+4. Possibilities
+5. Dispute around it
 
 
 
@@ -20,3 +22,11 @@
 
 
 ## Cas9
+
+
+
+## Possibilities
+
+
+
+## Dispute
