@@ -5,4 +5,15 @@
   opacity: 1;
   visibility: inherit; }
   .reveal .slides section .fragment.font-size-up.visible {
-            font-size: 150%; }
+            animation-name: example;
+            animation-duration: 4s; }
+
+
+/*********************************************
+ * ANIMATIONS
+ *********************************************/
+@keyframes font-size-up {
+  0%   {font-size: 100%;}
+  50%  {font-size: 200%;}
+  100% {font-size: 150%;}
+}
