@@ -6,7 +6,7 @@
   visibility: inherit; }
   .reveal .slides section .fragment.font-size-up.visible {
             animation-name: font-size-up;
-            animation-duration: 4s;
+            animation-duration: 1s;
             animation-fill-mode: forwards; }
 
 
