@@ -3,4 +3,5 @@
 
 
 ## Content
-<p class="fragment fade-in-then-semi-out" data-fragment-index="3"><p class="fragment fade-in-then-semi-out" data-fragment-index="2"><p class="fragment fade-in-then-semi-out" data-fragment-index="1">CRISPR</p>/Cas</p>9</p>
+
+<span class="fragment fade-in-then-semi-out" data-fragment-index="3"><span class="fragment fade-in-then-semi-out" data-fragment-index="2"><span class="fragment fade-in-then-semi-out" data-fragment-index="1">CRISPR</span>/Cas</span>9</span>
