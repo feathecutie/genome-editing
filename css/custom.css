@@ -1,0 +1,8 @@
+/*********************************************
+ * VIEW FRAGMENTS
+ *********************************************/
+ .reveal .slides section .fragment.font-size-up {
+  opacity: 1;
+  visibility: inherit; }
+  .reveal .slides section .fragment.font-size-up.visible {
+            font-size: 150%; }
