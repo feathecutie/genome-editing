@@ -1,3 +1,9 @@
+<div>
+  ![](img/recombinant_plasmid_transparent.png)
+</div>
+
+
+
 # CRISPR/Cas9
 
 
