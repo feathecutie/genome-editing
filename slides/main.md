@@ -5,7 +5,8 @@
 ## Content
 
 <span class="fragment highlight-red font-size-up" data-fragment-index="1 2 3">CRISPR</span><span class="fragment highlight-red font-size-up" data-fragment-index="2 3">/Cas</span><span class="fragment highlight-red font-size-up" data-fragment-index="3">9</span>
-1. The discovery of CRISPR <!-- .element: class="fragment" data-fragment-index="1" -->
+
+1. CRISPR <!-- .element: class="fragment" data-fragment-index="1" -->
 2. Cas <!-- .element: class="fragment" data-fragment-index="2" -->
 3. Cas9 <!-- .element: class="fragment" data-fragment-index="3" -->
 4. Possibilities <!-- .element: class="fragment" data-fragment-index="4" -->
@@ -28,11 +29,14 @@ Discorvered in three labs independently
 
 ## CRISPR
 ### Discovery
--
+#### Netherlands
+- Two articles were published
+
 
 
 ## CRISPR
 ### Discovery
+#### Francisco Mojica - University of Alicante
 
 
 ## CRISPR
@@ -44,7 +48,6 @@ Discorvered in three labs independently
 | S <span class="fragment">hort</span> |
 | P <span class="fragment">alindromic</span> |
 | R <span class="fragment">epeats</span> |
-
 
 
 
