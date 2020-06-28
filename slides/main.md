@@ -41,8 +41,8 @@ Discorvered in three labs independently
 
 | ~ |
 |---|
-| C <span class="fragment">lustered</span> |
-| R <span class="fragment">egularly</span> |
+| C <span class="fragment fade-right">lustered</span> |
+| R <span class="fragment fade-left">egularly</span> |
 | I <span class="fragment">nterspaced</span> |
 | S <span class="fragment">hort</span> |
 | P <span class="fragment">alindromic</span> |
