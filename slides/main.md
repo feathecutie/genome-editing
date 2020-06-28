@@ -29,6 +29,7 @@
 4. How it works <!-- .element: class="fragment" data-fragment-index="4" -->
 5. Application and Possibilities <!-- .element: class="fragment" data-fragment-index="5" -->
 6. Dispute <!-- .element: class="fragment" data-fragment-index="6" -->
+7. Sources <!-- .element: class="fragment" data-fragment-index="7" -->
 
 
 
@@ -41,7 +42,7 @@ Discovered in three labs independently
 
 ## Discovery
 #### Yoshizumi Ishino - Osoka University
-- Discovered interspaced, repeated sequences of DNA by accident
+- Discovered strange repeating sequences of DNA by accident
 - Didn't know about their purpose
 - No further research
 
