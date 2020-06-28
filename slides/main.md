@@ -1,7 +1,7 @@
 ~ | ~
 ---|---
-![](img/recombinant_plasmid_transparent.png) | ![](img/blue_white_test_transparent.png)
-![](img/ti_plasmid_transparent.png) | ![](img/golden_rice_transparent.png)
+![](img/recombinant_plasmid_transparent.png) <!-- .element: class="img" --> | ![](img/blue_white_test_transparent.png) <!-- .element: class="img" -->
+![](img/ti_plasmid_transparent.png) <!-- .element: class="img" --> | ![](img/golden_rice_transparent.png) <!-- .element: class="img" -->
 
 
 
