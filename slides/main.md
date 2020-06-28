@@ -2,7 +2,8 @@
 
 
 
-## Content
+# Content
+
 
 <span class="fragment highlight-red font-size-up" data-fragment-index="1 2 3">CRISPR</span><span class="fragment highlight-red font-size-up" data-fragment-index="2 3">/Cas</span><span class="fragment highlight-red font-size-up" data-fragment-index="3">9</span>
 
@@ -14,32 +15,29 @@
 
 
 
-## CRISPR
-### Discovery
+# CRISPR
+
+
+## Discovery
 Discorvered in three labs independently
 
 
-## CRISPR
-### Discovery
+## Discovery
 #### Yoshizumi Ishino - Osoka University
 - Discovered interspaced, repeated sequences of DNA by accident
 - Didn't know about their purpose
 - No further research
 
 
-## CRISPR
-### Discovery
-#### Netherlands
+## Discovery
+### Netherlands
 - Two articles were published
 
 
-
-## CRISPR
-### Discovery
-#### Francisco Mojica - University of Alicante
+## Discovery
+### Francisco Mojica - University of Alicante
 
 
-## CRISPR
 | ~ |
 |---|
 | C <span class="fragment">lustered</span> |
