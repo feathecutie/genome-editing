@@ -1,6 +1,7 @@
 ![](img/recombinant_plasmid_transparent.png)
 
 
+
 | ~ | ~ |
 |---|---|
 | ![](img/recombinant_plasmid_transparent.png) | <img src="img/blue_white_test_transparent.png"> |
