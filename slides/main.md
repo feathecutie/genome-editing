@@ -10,7 +10,7 @@
 1. CRISPR <!-- .element: class="fragment" data-fragment-index="1" -->
 2. Cas <!-- .element: class="fragment" data-fragment-index="2" -->
 3. Cas9 <!-- .element: class="fragment" data-fragment-index="3" -->
-4. Possibilities <!-- .element: class="fragment" data-fragment-index="4" -->
+4. Application and Possibilities <!-- .element: class="fragment" data-fragment-index="4" -->
 5. Dispute around it <!-- .element: class="fragment" data-fragment-index="5" -->
 
 
@@ -36,7 +36,7 @@ Discorvered in three labs independently
 
 ## Discovery
 ### Francisco Mojica - University of Alicante
-
+- Proposed the acronym CRISPR
 
 | ~ |
 |---|
@@ -57,7 +57,7 @@ Discorvered in three labs independently
 
 
 
-# Possibilities
+# Applications and Possibilities
 
 
 
