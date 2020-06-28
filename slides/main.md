@@ -38,6 +38,7 @@ Discorvered in three labs independently
 ### Francisco Mojica - University of Alicante
 - Proposed the acronym CRISPR
 
+
 | ~ |
 |---|
 | C <span class="fragment">lustered</span> |
