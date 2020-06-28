@@ -17,8 +17,9 @@
 1. CRISPR <!-- .element: class="fragment" data-fragment-index="1" -->
 2. Cas <!-- .element: class="fragment" data-fragment-index="2" -->
 3. Cas9 <!-- .element: class="fragment" data-fragment-index="3" -->
-4. Application and Possibilities <!-- .element: class="fragment" data-fragment-index="4" -->
-5. Dispute around it <!-- .element: class="fragment" data-fragment-index="5" -->
+4. How it works <!-- .element: class="fragment" data-fragment-index="4" -->
+5. Application and Possibilities <!-- .element: class="fragment" data-fragment-index="5" -->
+6. Dispute <!-- .element: class="fragment" data-fragment-index="6" -->
 
 
 
@@ -26,7 +27,7 @@
 
 
 ## Discovery
-Discorvered in three labs independently
+Discovered in three labs independently
 
 
 ## Discovery
@@ -62,6 +63,10 @@ Discorvered in three labs independently
 
 
 # Cas9
+
+
+
+# How it works
 
 
 
