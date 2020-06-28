@@ -36,7 +36,6 @@ Discorvered in three labs independently
 
 
 ## CRISPR
-### Summary
 | ~ |
 |---|
 | C <span class="fragment">lustered</span> |
