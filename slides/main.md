@@ -14,6 +14,24 @@
 
 
 ## CRISPR
+### Discovery
+Discorvered in three labs independently
+
+## CRISPR
+### Discovery
+#### Yoshizumi Ishino - Osoka University
+- Discovered interspaced, repeated sequences of DNA by accident
+- Didn't know about their purpose
+- No further research
+
+
+## CRISPR
+### Discovery
+-
+
+
+## CRISPR
+### Discovery
 
 
 
