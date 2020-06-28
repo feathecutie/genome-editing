@@ -9,6 +9,11 @@
             animation-duration: 1s;
             animation-fill-mode: forwards; }
 
+.reveal .slides section .fragment.highlight-pink {
+ opacity: 1;
+  visibility: inherit; }
+ .reveal .slides section .fragment.highlight-pink.visible {
+            color: #ff2c85; }
 
 /*********************************************
  * ANIMATIONS
