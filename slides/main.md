@@ -1,6 +1,4 @@
-<div>
-  ![](img/recombinant_plasmid_transparent.png)
-</div>
+![](img/recombinant_plasmid_transparent.png)
 
 
 
