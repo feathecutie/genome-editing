@@ -39,15 +39,10 @@ Discorvered in three labs independently
 ### Summary
 |---|
 | C <span class="fragment">lustered</span> |
-
 | R <span class="fragment">egularly</span> |
-
 | I <span class="fragment">nterspaced</span> |
-
 | S <span class="fragment">hort</span> |
-
 | P <span class="fragment">alindromic</span> |
-
 | R <span class="fragment">epeats</span> |
 
 
