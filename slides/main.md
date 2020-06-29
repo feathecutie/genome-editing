@@ -67,8 +67,17 @@ Discovered in three labs independently
 | R <span class="fragment">epeats</span> |
 
 
+## Summary
+- Repeating sequences are the same per species
+- Repeating sequences are palidromic
+- Length: ~30 nucleotides per repeat or "spacer"
+
+
 
 # Cas
+
+
+## Discovery
 
 
 
