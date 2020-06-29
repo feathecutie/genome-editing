@@ -54,7 +54,10 @@ Discovered in three labs independently
 
 ## Discovery
 ### Francisco Mojica - University of Alicante
-- Proposed the acronym CRISPR
+- Studied these sequences
+- Proposed theory of function
+  ⇒ Turned out to be wrong
+- Mojica and Ruud Jansen proposed the acronym CRISPR
 
 
 | ~ |
@@ -68,16 +71,43 @@ Discovered in three labs independently
 
 
 ## Summary
-- Repeating sequences are the same per species
-- Repeating sequences are palidromic
-- Length: ~30 nucleotides per repeat or "spacer"
-
+- Repeating sequences ("Repeats")
+  - Same per species
+  - Palindromic
+  - ~30 nucleotides per repeat
+- Interspacing sequences ("Spacers")
+  - ~30 nucleotides per repeat
 
 
 # Cas
 
 
 ## Discovery
+- Ruud Jansen discovered a set of genes associated with CRISPR
+  ⇒ Cas genes
+
+
+~
+---
+C <span class="fragment fade-right">RISPR-</span>
+a <span class="fragment fade-right">ssociated</span>
+s <span class="fragment fade-right">ystems<span>
+
+
+## Discovery
+- Later, more than the 4 Cas genes originally discovered by Jansen were found
+- Cas genes show similarities to genes of Helicase and Nuclease
+
+
+## Further Findings
+Important discovery in 2005:
+> Spacer DNA is identical to bacteriophage DNA
+
+
+⇒ CRISPR/Cas is an "immune system" of bacteria <!-- .element: style="font-size: 300%;" -->
+
+
+## Summary
 
 
 
