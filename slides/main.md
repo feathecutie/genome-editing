@@ -87,16 +87,17 @@ Discovered in three labs independently
   ⇒ Cas genes
 
 
-~
----
-C <span class="fragment fade-right">RISPR-</span>
-a <span class="fragment fade-right">ssociated</span>
-s <span class="fragment fade-right">ystems<span>
+| ~ |
+|---|
+| C <span class="fragment fade-right">RISPR-</span> |
+| a <span class="fragment fade-right">ssociated</span> |
+| s <span class="fragment fade-right">ystems<span> |
 
 
 ## Discovery
 - Later, more than the 4 Cas genes originally discovered by Jansen were found
 - Cas genes show similarities to genes of Helicase and Nuclease
+  ⇒ Involvement in transcription?
 
 
 ## Further Findings
@@ -104,7 +105,7 @@ Important discovery in 2005:
 > Spacer DNA is identical to bacteriophage DNA
 
 
-⇒ CRISPR/Cas is an "immune system" of bacteria <!-- .element: style="font-size: 300%;" -->
+⇒ CRISPR/Cas is an "immune system" of bacteria <!-- .element: style="font-size: 200%;" -->
 
 
 ## Summary
@@ -113,6 +114,10 @@ Important discovery in 2005:
 
 # Cas9
 
+- Specific Cas gene
+- Found in Streptococcus pyogenes
+- Special characteristic:
+  CRISPR/Cas system only needs Cas9
 
 
 # How it works
