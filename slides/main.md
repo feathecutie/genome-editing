@@ -115,6 +115,7 @@ Important discovery in 2005:
 
 # Cas9
 
+
 - Specific Cas gene
 - Found in Streptococcus pyogenes
 - Special characteristic:
