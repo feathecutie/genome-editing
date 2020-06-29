@@ -98,6 +98,9 @@ Discovered in three labs independently
 | s <span class="fragment fade-right">ystems<span> |
 
 
+![](img/crispr-cas.png)
+
+
 ## Discovery
 - Later, more than the 4 Cas genes originally discovered by Jansen were found
 - Cas genes show similarities to genes of Helicase and Nuclease
