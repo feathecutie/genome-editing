@@ -2,7 +2,7 @@
 - CRISPR
 - Cas
 - Cas9
-- How it works
+- How it's used
 - Dispute
 
 
@@ -26,7 +26,7 @@
 1. CRISPR <!-- .element: class="fragment" data-fragment-index="1" -->
 2. Cas <!-- .element: class="fragment" data-fragment-index="2" -->
 3. Cas9 <!-- .element: class="fragment" data-fragment-index="3" -->
-4. How it works <!-- .element: class="fragment" data-fragment-index="4" -->
+4. How it's used <!-- .element: class="fragment" data-fragment-index="4" -->
 5. Application and Possibilities <!-- .element: class="fragment" data-fragment-index="5" -->
 6. Dispute <!-- .element: class="fragment" data-fragment-index="6" -->
 7. Sources <!-- .element: class="fragment" data-fragment-index="7" -->
@@ -41,10 +41,13 @@ Discovered in three labs independently
 
 
 ## Discovery
-#### Yoshizumi Ishino - Osoka University
+#### Yoshizumi Ishino - Osoka University (1987)
 - Discovered strange repeating sequences of DNA by accident
 - Didn't know about their purpose
 - No further research
+
+
+![](img/crispr.png)
 
 
 ## Discovery
@@ -53,7 +56,7 @@ Discovered in three labs independently
 
 
 ## Discovery
-### Francisco Mojica - University of Alicante
+### Francisco Mojica - University of Alicante (2002)
 - Studied these sequences
 - Proposed theory of function
   ⇒ Turned out to be wrong
