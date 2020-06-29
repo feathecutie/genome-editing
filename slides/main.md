@@ -106,10 +106,10 @@ Discovered in three labs independently
 
 ## Further Findings
 Important discovery in 2005:
-> Spacer DNA is identical to bacteriophage DNA
+Spacer DNA is identical to bacteriophage DNA
 
 
-⇒ CRISPR/Cas is an "immune system" of bacteria <!-- .element: style="font-size: 200%;" -->
+> ⇒ CRISPR/Cas is an "immune system" of bacteria <!-- .element: style="font-size: 200%;" -->
 
 
 ## Summary
