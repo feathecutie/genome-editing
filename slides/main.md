@@ -47,9 +47,6 @@ Discovered in three labs independently
 - No further research
 
 
-
-
-
 ## Discovery
 ### Netherlands
 - Two articles were published
