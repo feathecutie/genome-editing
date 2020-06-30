@@ -123,13 +123,23 @@ Spacer DNA is identical to bacteriophage DNA
 # Cas9
 
 
+## Discovery
+### Emmanuelle Charpentier und Jennifer Doudna - University of Alicante (2012)
 - Specific Cas gene
+- Endonuclease
 - Found in Streptococcus pyogenes
 - Special characteristic:
   CRISPR/Cas system only needs Cas9
 
 
 ![](img/cas9_normal_transparent.png)
+
+
+## Summary
+- Cas9 binds to PAM ( 5'-N-G-G-3' )
+- unwinds DNA
+- if DNA and crRNA match: hydrogen bonds, activates Cas9
+- Cas9 gene "cuts" both DNA strands
 
 
 
@@ -142,16 +152,17 @@ Spacer DNA is identical to bacteriophage DNA
 - Cas9 enzyme
 
 
-
 ## Concept
+- By
 | ~ | ~ | ~ | ~ | ~ |
 |---|---|---|---|---|
-| crRNA | + | tracrRNA | = | chimera
+| crRNA | + | tracrRNA | = | crRNA-tracrRNA-chimera
 | ![](img/crRNA.png) | + | ![](img/tracrRNA.png) | = | ![](img/chimera.png) |
 
 
-![](img/cas9_chimera_transparent.png)
 
+
+![](img/cas9_chimera_transparent.png)
 
 
 ## Result
