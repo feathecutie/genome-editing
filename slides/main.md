@@ -128,7 +128,20 @@ Spacer DNA is identical to bacteriophage DNA
   CRISPR/Cas system only needs Cas9
 
 
-# How it works
+![](img/cas9_normal_transparent.png)
+
+
+
+# How it's used
+
+
+## Concept
+| ~ | ~ | ~ | ~ | ~ |
+|---|---|---|---|---|
+| ![](img/crRNA.png) | + | ![](img/tracrRNA.png) | = | ![](img/chimera.png) |
+
+
+![](img/cas9_chimera_transparent.png)
 
 
 
