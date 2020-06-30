@@ -135,13 +135,28 @@ Spacer DNA is identical to bacteriophage DNA
 # How it's used
 
 
+## Original components
+- crRNA
+- tracrRNA
+- Cas9 enzyme
+
+
+
 ## Concept
 | ~ | ~ | ~ | ~ | ~ |
 |---|---|---|---|---|
+| crRNA | + | tracrRNA | = | chimera
 | ![](img/crRNA.png) | + | ![](img/tracrRNA.png) | = | ![](img/chimera.png) |
 
 
 ![](img/cas9_chimera_transparent.png)
+
+
+
+## Result
+- Cut DNA anywhere
+- Insertion and Deletion of sequences / genes
+- Force mutations
 
 
 
