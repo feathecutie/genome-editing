@@ -155,10 +155,10 @@ Spacer DNA is identical to bacteriophage DNA
 
 
 ## Concept
-- By
+
 | ~ | ~ | ~ | ~ | ~ |
 |---|---|---|---|---|
-| crRNA | + | tracrRNA | = | crRNA-tracrRNA-chimera
+| crRNA | + | tracrRNA | = | crRNA-tracrRNA-chimera |
 | ![](img/crRNA.png) | + | ![](img/tracrRNA.png) | = | ![](img/chimera.png) |
 
 
