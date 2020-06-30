@@ -43,7 +43,9 @@ Discovered in three labs independently
 
 ## Discovery
 #### Yoshizumi Ishino - Osoka University (1987)
-- Discovered strange repeating sequences of DNA by accident
+- Discovered strange DNA sequence:
+  - Palindromic repeats
+  - Other DNA inbetween
 - Didn't know about their purpose
 - No further research
 
