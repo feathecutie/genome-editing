@@ -29,16 +29,16 @@
 
 ## Discovery
 - in three labs independently <!-- .element: class="fragment" -->
-- mostly very recent <!-- .element: class="fragment" data-fragment-index="1" -->
+- mostly very recent <!-- .element: class="fragment" -->
 
 
 ## Discovery
 #### Yoshizumi Ishino - Osoka University (1987)
-- Discovered strange DNA sequence: <!-- .element: class="fragment" data-fragment-index="1" -->
-  - Palindromic repeats <!-- .element: class="fragment" data-fragment-index="1" -->
-  - Interspaced by other DNA <!-- .element: class="fragment" data-fragment-index="1" -->
-- Didn't know about their purpose <!-- .element: class="fragment" data-fragment-index="1" -->
-- No further research <!-- .element: class="fragment" data-fragment-index="1" -->
+- Discovered strange DNA sequence in bacteria: <!-- .element: class="fragment" -->
+  - Palindromic repeats <!-- .element: class="fragment" -->
+  - Interspaced by other DNA <!-- .element: class="fragment" -->
+- Didn't know about their purpose <!-- .element: class="fragment" -->
+- No further research <!-- .element: class="fragment" -->
 
 
 ![](img/crispr.png)
@@ -47,15 +47,15 @@
 ## Discovery
 ### Netherlands
 - Two scientific articles were published
-- Inspired other researchers
+- Inspired other researchers <!-- .element: class="fragment" -->
 
 
 ## Discovery
 ### Francisco Mojica - University of Alicante (2002)
-- Studied these sequences
-- Proposed theory of function
-  ⇒ Turned out to be wrong
-- Mojica and Ruud Jansen proposed the acronym CRISPR
+- Studied these sequences <!-- .element: class="fragment" -->
+- Proposed theory of function <!-- .element: class="fragment" -->
+  - ⇒ Turned out to be wrong <!-- .element: class="fragment" -->
+- Mojica and Ruud Jansen proposed the acronym CRISPR <!-- .element: class="fragment" -->
 
 
 <!-- .slide: data-otf-fragment-order-slide -->
@@ -70,12 +70,12 @@
 
 
 ## Summary
-- Repeating sequences ("Repeats")
-  - Same per species
-  - Palindromic
-  - ~30 nucleotides per repeat
-- Interspacing sequences ("Spacers")
-  - ~30 nucleotides per repeat
+- Repeating sequences ("Repeats") <!-- .element: class="fragment" -->
+  - Differ between species <!-- .element: class="fragment" -->
+  - Palindromic <!-- .element: class="fragment" -->
+  - ~30 nucleotides per repeat <!-- .element: class="fragment" -->
+- Interspacing sequences ("Spacers") <!-- .element: class="fragment" -->
+  - ~30 nucleotides per repeat <!-- .element: class="fragment" -->
 
 
 
