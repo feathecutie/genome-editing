@@ -58,6 +58,7 @@
 - Mojica and Ruud Jansen proposed the acronym CRISPR
 
 
+<!-- .slide: data-background="#ff0000" -->
 | ~ |
 |---|
 | C <span class="fragment fade-right">lustered</span> |
