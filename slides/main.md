@@ -38,14 +38,15 @@
 
 
 ## Discovery
-Discovered in three labs independently
+- in three labs independently
+- mostly very recent
 
 
 ## Discovery
 #### Yoshizumi Ishino - Osoka University (1987)
 - Discovered strange DNA sequence:
   - Palindromic repeats
-  - Other DNA inbetween
+  - Interspaced by other DNA
 - Didn't know about their purpose
 - No further research
 
@@ -105,8 +106,8 @@ Discovered in three labs independently
 
 
 ## Discovery
-- Later, more than the 4 Cas genes originally discovered by Jansen were found
-- Cas genes show similarities to genes of Helicase and Nuclease
+- Later: more Cas genes were found
+- Similarites to Helicase and Nuclease
   ⇒ Involvement in transcription?
 
 
@@ -126,10 +127,10 @@ Spacer DNA is identical to bacteriophage DNA
 
 
 ## Discovery
-### Emmanuelle Charpentier und Jennifer Doudna - University of Alicante (2012)
+### Emmanuelle Charpentier und Jennifer Doudna - University of California, Berkeley (2011)
+- Found in Streptococcus pyogenes
 - Specific Cas gene
 - Endonuclease
-- Found in Streptococcus pyogenes
 - Special characteristic:
   CRISPR/Cas system only needs Cas9
 
@@ -163,22 +164,50 @@ Spacer DNA is identical to bacteriophage DNA
 
 
 
-
 ![](img/cas9_chimera_transparent.png)
 
 
 ## Result
 - Cut DNA anywhere
-- Insertion and Deletion of sequences / genes
-- Force mutations
+  - Insertion and Deletion of sequences / genes
+  - Force mutations
 
 
 
 # Applications and Possibilities
 
 
+## Curing Disease
+- Fighting cancer
+  - Easily modifiy genes to record behaviour
+  - Understand how exactly the genes work
+- Making Diseases Self Destruct
+  - Custom virus with specific message
+
+
+## Curing Disease
+- Engineering humans
+  - He Jiankui illegally modified embryos
+  - Modified gene for CCR5 
+  - Prevent HIV
+  - ⇒ 3 years of jail
+
+
+## Modifying organisms - Outlook
+- Designer babies
+- "De-Extinction"
+
+
+## ..pratically everthing else
+- Allergy-free food
+- Green fuels
+- Decaf coffee beans
+
 
 # Dispute
+
+
+## Patent
 
 
 
