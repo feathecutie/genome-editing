@@ -75,7 +75,7 @@
   - Palindromic <!-- .element: class="fragment" -->
   - ~30 nucleotides per repeat <!-- .element: class="fragment" -->
 - Interspacing sequences ("Spacers") <!-- .element: class="fragment" -->
-  - ~30 nucleotides per repeat <!-- .element: class="fragment" -->
+  - ~30 nucleotides per spacer <!-- .element: class="fragment" -->
 
 
 
@@ -232,21 +232,33 @@ Spacer DNA is identical to bacteriophage DNA  <!-- .element: class="fragment" --
 - Many other possibilities
 - CRISPR/Cas9 can help humans
 ⇒ CRISPR/Cas9 can be beneficial 
- 
+
 
 ## Patent
-- 
-
+- Emmanuelle Charpentier and Jennifer Doudna filed a patent
+- Broad Institute (Harvard, MIT) filed a patent right after
+  - Paid money to have it processed quicker
+  - ⇒ Got the patent
+- Since then:
+  - "War" for patents between researchers
+  - Hundreds of patents for various techniques
+  - Still mainly UC Berkley and Broad Institute
+    - 
 
 
 # Sources
 
 
 ## Literature
-- Hillis, David. M et al.; Life: The Science of Biology, Eleventh edition; Sinauer Associates, Inc.; Sunderland, MA, 2016
-- Sadava, David E.; Life: The Science of Biology, Twelth Edition; Sinauer Associates, Inc.; Sunderland, MA, 2016
+- Hillis, David. M et al.; Life: The Science of Biology, Eleventh edition; Sinauer Associates, Inc.; Sunderland, MA; 2016
+- Sadava, David E.; Life: The Science of Biology, Twelth Edition; Sinauer Associates, Inc.; Sunderland, MA; 2016
+- Spektrum der Wissenschaft - Grüne Gentechnik; Spektrum der Wissenschaft Verlag; Heidelberg
+- Spektrum der Wissenschaft KOMPAKT - CRISPR/Cas9; Spektrum der Wissenschaft Verlag; Heidelberg
 
 
 ## Internet
-- 
-- 
+- https://chemistry.berkeley.edu/CRISPR
+- https://www.biointeractive.org/classroom-resources/crispr-cas-9-mechanism-applications
+- https://www.life11e.com/activity1801.html
+- https://synbiobeta.com/with-the-recent-patent-news-who-owns-crispr-now/
+
