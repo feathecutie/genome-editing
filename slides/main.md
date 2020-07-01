@@ -28,17 +28,17 @@
 
 
 ## Discovery
-- in three labs independently
-- mostly very recent
+- in three labs independently <!-- .element: class="fragment" -->
+- mostly very recent <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ## Discovery
 #### Yoshizumi Ishino - Osoka University (1987)
-- Discovered strange DNA sequence:
-  - Palindromic repeats
-  - Interspaced by other DNA
-- Didn't know about their purpose
-- No further research
+- Discovered strange DNA sequence: <!-- .element: class="fragment" data-fragment-index="1" -->
+  - Palindromic repeats <!-- .element: class="fragment" data-fragment-index="1" -->
+  - Interspaced by other DNA <!-- .element: class="fragment" data-fragment-index="1" -->
+- Didn't know about their purpose <!-- .element: class="fragment" data-fragment-index="1" -->
+- No further research <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ![](img/crispr.png)
@@ -46,7 +46,8 @@
 
 ## Discovery
 ### Netherlands
-- Two articles were published
+- Two scientific articles were published
+- Inspired other researchers
 
 
 ## Discovery
@@ -197,7 +198,34 @@ Spacer DNA is identical to bacteriophage DNA
 # Dispute
 
 
+## Safety
+- A lot of claims of the dangers of CRISPR/Cas9
+- Gene editing has not been and can't be proven completely safe
+- Attempts to ban CRISPR/Cas9
+  - ⇒ very unlikely
+
+
+## Safety - My Opinion
+- Very simple and comprehensible function
+- Very precise
+⇒ "better" than other techniques!
+
+
+## Morals
+- Engineering organisms
+  - Especially humans ⇒ Designer babies
+- Not compatible with morals
+
+
+## Morals - My opinion
+- Many other possibilities
+- CRISPR/Cas9 can help humans
+⇒ CRISPR/Cas9 can be beneficial
+ 
+
+
 ## Patent
+- 
 
 
 
