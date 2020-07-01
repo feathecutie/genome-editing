@@ -117,7 +117,7 @@ Spacer DNA is identical to bacteriophage DNA
 
 
 ## Discovery
-### Emmanuelle Charpentier und Jennifer Doudna - University of California, Berkeley (2011)
+### Emmanuelle Charpentier and Jennifer Doudna - University of California, Berkeley (2011)
 - Found in Streptococcus pyogenes
 - Specific Cas gene
 - Endonuclease
