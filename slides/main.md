@@ -1,13 +1,3 @@
-# TODO
-- CRISPR
-- Cas
-- Cas9
-- How it's used
-- Dispute
-- Sources
-
-
-
 ~ | ~ | ~
 ---|---|---
 ![](img/recombinant_plasmid_transparent.png) <!-- .element: class="img" --> | ⇒ | ![](img/blue_white_test_transparent.png) <!-- .element: class="img" -->
