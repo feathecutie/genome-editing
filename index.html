@@ -54,6 +54,7 @@
 
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
+				otfFragmentOrder: true,
 				controls: false,
 				progress: false,
 				history: false,
@@ -63,7 +64,7 @@
 				parallaxBackgroundImage: 'img/sampleBinding_edited.png',
 				parallaxBackgroundSize: '2880px 2880px', // orig 1920 1920
 				parallaxBackgroundHorizontal: 75,
-				parallaxBackgroundVertical: 50,
+				parallaxBackgroundVertical: 75,
 
 				transition: 'slide', // none/fade/slide/convex/concave/zoom
 
@@ -71,6 +72,7 @@
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/otf-fragment-order/otf-fragment-order.js', async: true, condition: function() { return !!document.body.classList; } },
 					{ src: 'plugin/highlight/highlight.js' },
 					{ src: 'plugin/search/search.js', async: true },
 					{ src: 'plugin/zoom-js/zoom.js', async: true },
