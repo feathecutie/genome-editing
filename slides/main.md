@@ -83,8 +83,9 @@
 
 
 ## Discovery
-- Ruud Jansen discovered a set of genes associated with CRISPR
-  ⇒ Cas genes
+Ruud Jansen discovered a set of genes associated with CRISPR <!-- .element: class="fragment" -->
+
+⇒ Cas genes <!-- .element: class="fragment" -->
 
 
 | ~ |
@@ -98,20 +99,23 @@
 
 
 ## Discovery
-- Later: more Cas genes were found
-- Similarites to Helicase and Nuclease
-  ⇒ Involvement in transcription?
+- Later: more Cas genes were found <!-- .element: class="fragment" -->
+- Similarites to Helicase and Nuclease <!-- .element: class="fragment" -->
+  - ⇒ Involvement in transcription? <!-- .element: class="fragment" -->
 
 
 ## Further Findings
-Important discovery in 2005:
-Spacer DNA is identical to bacteriophage DNA
+Important discovery in 2005: <!-- .element: class="fragment" -->
+Spacer DNA is identical to bacteriophage DNA  <!-- .element: class="fragment" -->
 
 
 > ⇒ CRISPR/Cas is an "immune system" of bacteria <!-- .element: style="font-size: 200%;" -->
 
 
 ## Summary
+- Genes coding for Cas proteins <!-- .element: class="fragment" -->
+- Proteins show similarities to "transcription" enzymes <!-- .element: class="fragment" -->
+
 
 
 
@@ -120,21 +124,21 @@ Spacer DNA is identical to bacteriophage DNA
 
 ## Discovery
 ### Emmanuelle Charpentier and Jennifer Doudna - University of California, Berkeley (2011)
-- Found in Streptococcus pyogenes
-- Specific Cas gene
-- Endonuclease
+- Found in Streptococcus pyogenes <!-- .element: class="fragment" -->
+- Specific Cas gene <!-- .element: class="fragment" -->
+- Endonuclease <!-- .element: class="fragment" -->
 - Special characteristic:
-  CRISPR/Cas system only needs Cas9
+  CRISPR/Cas system only needs Cas9 <!-- .element: class="fragment" -->
 
 
 ![](img/cas9_normal_transparent.png)
 
 
 ## Summary
-- Cas9 binds to PAM ( 5'-N-G-G-3' )
-- unwinds DNA
-- if DNA and crRNA match: hydrogen bonds, activates Cas9
-- Cas9 gene "cuts" both DNA strands
+- Cas9 binds to PAM ( 5'-N-G-G-3' ) <!-- .element: class="fragment" -->
+- unwinds DNA <!-- .element: class="fragment" -->
+- if DNA and crRNA match: hydrogen bonds, activates Cas9 <!-- .element: class="fragment" -->
+- Cas9 gene "cuts" both DNA strands <!-- .element: class="fragment" -->
 
 
 
@@ -142,9 +146,9 @@ Spacer DNA is identical to bacteriophage DNA
 
 
 ## Original components
-- crRNA
-- tracrRNA
-- Cas9 enzyme
+- crRNA <!-- .element: class="fragment" -->
+- tracrRNA <!-- .element: class="fragment" -->
+- Cas9 enzyme <!-- .element: class="fragment" -->
 
 
 ## Concept
@@ -155,14 +159,19 @@ Spacer DNA is identical to bacteriophage DNA
 | ![](img/crRNA.png) | + | ![](img/tracrRNA.png) | = | ![](img/chimera.png) |
 
 
+## Concept
+- crRNA-tracrRNA-chimera  <!-- .element: class="fragment" -->
+  = guide RNA (gRNA) <!-- .element: class="fragment" -->
+- guides the whole process <!-- .element: class="fragment" -->
+
 
 ![](img/cas9_chimera_transparent.png)
 
 
 ## Result
-- Cut DNA anywhere
-  - Insertion and Deletion of sequences / genes
-  - Force mutations
+- Cut DNA anywhere <!-- .element: class="fragment" -->
+  - Insertion and Deletion of sequences / genes <!-- .element: class="fragment" -->
+  - Force mutations <!-- .element: class="fragment" -->
 
 
 
@@ -190,10 +199,11 @@ Spacer DNA is identical to bacteriophage DNA
 - "De-Extinction"
 
 
-## ..pratically everthing else
+## Other diverse possibilities
 - Allergy-free food
 - Green fuels
 - Decaf coffee beans
+
 
 
 # Dispute
@@ -221,9 +231,8 @@ Spacer DNA is identical to bacteriophage DNA
 ## Morals - My opinion
 - Many other possibilities
 - CRISPR/Cas9 can help humans
-⇒ CRISPR/Cas9 can be beneficial
+⇒ CRISPR/Cas9 can be beneficial 
  
-
 
 ## Patent
 - 
@@ -231,3 +240,8 @@ Spacer DNA is identical to bacteriophage DNA
 
 
 # Sources
+
+
+## Literature
+- Hillis, David. M et al.; Life: The Science of Biology, Eleventh edition; Sinauer Associates, Inc.; Sunderland, MA, 2016
+- Sadava, David E.; Life: The Science of Biology, Twelth Edition; Sinauer Associates, Inc.; Sunderland, MA, 2016
