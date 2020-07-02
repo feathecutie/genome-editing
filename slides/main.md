@@ -268,3 +268,6 @@ Spacer DNA is identical to bacteriophage DNA  <!-- .element: class="fragment" --
 - https://commons.m.wikimedia.org/wiki/File:Blue-white_test.jpg (28.06.2020)
 - https://commons.m.wikimedia.org/wiki/File:Ti-Plasmid.svg (28.06.2020)
 - https://www.foodnavigator-asia.com/Article/2018/01/03/Foods-containing-GM-golden-rice-can-be-sold-in-Australia-and-New-Zealand (28.06.2020)
+
+
+ 
