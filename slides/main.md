@@ -257,8 +257,14 @@ Spacer DNA is identical to bacteriophage DNA  <!-- .element: class="fragment" --
 
 
 ## Internet
-- https://chemistry.berkeley.edu/CRISPR
-- https://www.biointeractive.org/classroom-resources/crispr-cas-9-mechanism-applications
-- https://www.life11e.com/activity1801.html
-- https://synbiobeta.com/with-the-recent-patent-news-who-owns-crispr-now/
+- https://chemistry.berkeley.edu/CRISPR (15.06.2020)
+- https://www.biointeractive.org/classroom-resources/crispr-cas-9-mechanism-applications (16.06.2020)
+- https://www.life11e.com/activity1801.html (18.06.2020)
+- https://synbiobeta.com/with-the-recent-patent-news-who-owns-crispr-now/ (20.06.2020)
 
+
+##Pictures
+- http://cityraven.com/bacteria-containing-recombinant-plasmids-are-often-identified-by-which-process.html (28.06.2020)
+- https://commons.m.wikimedia.org/wiki/File:Blue-white_test.jpg (28.06.2020)
+- https://commons.m.wikimedia.org/wiki/File:Ti-Plasmid.svg (28.06.2020)
+- https://www.foodnavigator-asia.com/Article/2018/01/03/Foods-containing-GM-golden-rice-can-be-sold-in-Australia-and-New-Zealand (28.06.2020)
