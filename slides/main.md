@@ -72,7 +72,6 @@
 ## Summary
 - Repeating sequences ("Repeats") <!-- .element: class="fragment" -->
   - Differ between species <!-- .element: class="fragment" -->
-  - Palindromic <!-- .element: class="fragment" -->
   - ~30 nucleotides per repeat <!-- .element: class="fragment" -->
 - Interspacing sequences ("Spacers") <!-- .element: class="fragment" -->
   - ~30 nucleotides per spacer <!-- .element: class="fragment" -->
