@@ -243,7 +243,8 @@ Spacer DNA is identical to bacteriophage DNA  <!-- .element: class="fragment" --
   - "War" for patents between researchers
   - Hundreds of patents for various techniques
   - Still mainly UC Berkley and Broad Institute
-    - 
+    - huge portfolio of single patents
+
 
 
 # Sources
